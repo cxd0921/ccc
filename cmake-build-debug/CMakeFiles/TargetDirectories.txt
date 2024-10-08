@@ -1,0 +1,5 @@
+D:/CODE/TEST1/cmake-build-debug/CMakeFiles/main.dir
+D:/CODE/TEST1/cmake-build-debug/CMakeFiles/test1.dir
+D:/CODE/TEST1/cmake-build-debug/CMakeFiles/link.dir
+D:/CODE/TEST1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODE/TEST1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
