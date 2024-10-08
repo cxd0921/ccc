@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-#define MaxSize 100
+#define MaxSize 200
 
 typedef struct RingBuffer {
     char *data;
